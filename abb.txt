@@ -1,1 +1,3 @@
 I am attending training.
+
+added new line
